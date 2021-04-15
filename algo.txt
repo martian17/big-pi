@@ -1,0 +1,11 @@
++ 36462\arctan\frac{1}{390112}
++ 135908\arctan\frac{1}{485298}
++ 274509\arctan\frac{1}{683982}
+- 39581\arctan\frac{1}{1984933}
++ 178477\arctan\frac{1}{2478328}
+- 114569\arctan\frac{1}{3449051}
+- 146571\arctan\frac{1}{18975991}
++ 61914\arctan\frac{1}{22709274}
+- 69044\arctan\frac{1}{24208144}
+- 89431\arctan\frac{1}{201229582}
+- 43938\arctan\frac{1}{2189376182}
